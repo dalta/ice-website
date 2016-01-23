@@ -1,2 +1,2 @@
 # ice-website
-Dummy website project for Imperial College of Engineering from 3 Idiots
+Dummy website project for Imperial College of Engineering & Technology (ICEnT) from 3 Idiots
